@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0720"
+   wasCreatedForAppExtension = "YES"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2CD785211C4A300C0082F3A3"
+               BuildableName = "ASCIIArt.appex"
+               BlueprintName = "ASCIIArt"
+               ReferencedContainer = "container:ASCIIArtKeyboards.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2CD784EC1C4A2FDA0082F3A3"
+               BuildableName = "ASCIIArtKeyboards.app"
+               BlueprintName = "ASCIIArtKeyboards"
+               ReferencedContainer = "container:ASCIIArtKeyboards.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES">
+      <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2CD785431C4A42AC0082F3A3"
+               BuildableName = "SettingsTests.xctest"
+               BlueprintName = "SettingsTests"
+               ReferencedContainer = "container:ASCIIArtKeyboards.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "2C7B8E031C4A835E000AEA0D"
+               BuildableName = "RestNetworkTests.xctest"
+               BlueprintName = "RestNetworkTests"
+               ReferencedContainer = "container:ASCIIArtKeyboards.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "2CD784EC1C4A2FDA0082F3A3"
+            BuildableName = "ASCIIArtKeyboards.app"
+            BlueprintName = "ASCIIArtKeyboards"
+            ReferencedContainer = "container:ASCIIArtKeyboards.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = ""
+      selectedLauncherIdentifier = "Xcode.IDEFoundation.Launcher.PosixSpawn"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "2CD784EC1C4A2FDA0082F3A3"
+            BuildableName = "ASCIIArtKeyboards.app"
+            BlueprintName = "ASCIIArtKeyboards"
+            ReferencedContainer = "container:ASCIIArtKeyboards.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersioning = "YES"
+      launchAutomaticallySubstyle = "2">
+      <RemoteRunnable
+         runnableDebuggingMode = "0"
+         BundleIdentifier = "iOS.TechTalk.ASCIIArtKeyboards"
+         RemotePath = "/Users/danguyen/Library/Developer/CoreSimulator/Devices/1406F984-122B-4D34-9FA3-EFDA62DA56A1/data/Containers/Bundle/Application/9990227E-725D-4D13-A58D-9618D3A0FF33/ASCIIArtKeyboards.app">
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "2CD784EC1C4A2FDA0082F3A3"
+            BuildableName = "ASCIIArtKeyboards.app"
+            BlueprintName = "ASCIIArtKeyboards"
+            ReferencedContainer = "container:ASCIIArtKeyboards.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
