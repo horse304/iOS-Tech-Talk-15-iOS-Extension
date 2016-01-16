@@ -28,7 +28,7 @@ Samples: Keyboard extension, photo editing extension, Today extension
 - Content blocking extension: http://www.imore.com/ios-9-content-blocking-extensions-explained
 
 ****
-** Recommended Links: **
+**Recommended Links:**
 - [App Extension Best Practices](https://developer.apple.com/videos/play/wwdc2015-224/)
 - [Safari Extensibility: Content Blocking and Shared Links](https://developer.apple.com/videos/play/wwdc2015-511/)
 - [Building Document Based AppsNEW](https://developer.apple.com/videos/wwdc/2015/?id=234)
