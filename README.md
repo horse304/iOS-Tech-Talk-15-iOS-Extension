@@ -1,6 +1,6 @@
 # iOS Tech Talk 15: Introduce iOS Extension
 
-## Video tech talk (Vietnamese): to be update
+## Video tech talk (Vietnamese): https://www.youtube.com/watch?v=4G5Yddhe40Q&feature=youtu.be
 
 
 ## What is extension?
